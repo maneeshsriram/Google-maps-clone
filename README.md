@@ -1,0 +1,1 @@
+A maps app which allows the user to navigate through the map, also finds the direction from a place to other by either entering the start and destination places or directly the coordinates of the places.
